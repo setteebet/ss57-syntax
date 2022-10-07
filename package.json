@@ -1,18 +1,18 @@
 {
   "name": "ss57-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "luckyหวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"luckyหวย",
-"หวยออนไลน์888",
-"lottovip vip",
-"หวยลาวในเว็บ",
-"หวยดวงดี"
-],
+  "version": "0.2.0",
+  "description": "luckyหวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "luckyหวย",
+    "หวยออนไลน์888",
+    "lottovip vip",
+    "หวยลาวในเว็บ",
+    "หวยดวงดี"
+  ],
   "repository": "https://github.com/setteebet/ss57-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
